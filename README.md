@@ -1,2 +1,2 @@
 # TimeZone
-PHP DateTimeZone Interface
+PHP DateTimeZone Implementation
