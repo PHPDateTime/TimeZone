@@ -1,0 +1,22 @@
+{
+    "name": "potter/time-zone",
+    "description": "PHP DateTimeZone Interface",
+    "type": "library",
+    "require": {
+        "php": "^8.3",
+        "potter/stringable": "dev-main"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Potter\\DateTime\\Zone\\": "src/Potter/DateTime/Zone/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jay Potter",
+            "email": "j@ypotter.ca"
+        }
+    ],
+    "minimum-stability": "dev"
+}
