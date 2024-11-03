@@ -1,5 +1,5 @@
 {
-    "name": "potter/time-zone",
+    "name": "PHPDateTime/time-zone",
     "description": "PHP DateTimeZone Implementation",
     "type": "library",
     "require": {
@@ -10,7 +10,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Potter\\DateTime\\Zone\\": "src/Potter/DateTime/Zone/"
+            "PHPDateTime\\Zone\\": "src/PHPDateTime/Zone/"
         }
     },
     "authors": [

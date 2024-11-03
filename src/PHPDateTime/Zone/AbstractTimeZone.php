@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Potter\DateTime\Zone;
+namespace PHPDateTime\Zone;
 
 use Carbon\CarbonTimeZone;
 use DateTimeZone;
