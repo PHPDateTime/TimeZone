@@ -1,5 +1,5 @@
 {
-    "name": "PHPDateTime/time-zone",
+    "name": "phpdatetime/time-zone",
     "description": "PHP DateTimeZone Implementation",
     "type": "library",
     "require": {
