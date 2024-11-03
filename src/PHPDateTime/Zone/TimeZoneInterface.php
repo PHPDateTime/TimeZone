@@ -7,7 +7,7 @@ namespace PHPDateTime\Zone;
 use DateTimeInterface as DateTimeInterface,
     DateTimeZone      as DateTimeZone;
 
-use Potter\Stringable\StringableInterface;
+use PHPAbles\Stringable\StringableInterface;
 
 interface TimeZoneInterface extends StringableInterface
 {
